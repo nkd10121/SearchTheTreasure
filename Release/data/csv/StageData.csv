@@ -1,0 +1,17 @@
+ステージ名,使用するマップデータ,初期X座標(マップ基準),初期Z座標(マップ基準),クリアX座標(マップ基準),クリアZ座標(マップ基準),チェストの向き
+Stage0,data/csv/stage1.csv,6,9,6,0,180
+Stage1,data/csv/stage2.csv,6,9,12,3,270
+Stage2_0,data/csv/stage3.csv,6,4,12,4,270
+Stage2_1,data/csv/stage3.csv,6,4,0,4,90
+Stage2_2,data/csv/stage3.csv,6,4,6,0,180
+Stage2_3,data/csv/stage3.csv,6,4,6,9,0
+Stage3_0,data/csv/stage4.csv,6,9,2,1,90
+Stage3_1,data/csv/stage4.csv,6,9,10,1,270
+Stage3_2,data/csv/stage4.csv,6,9,1,3,180
+Stage3_3,data/csv/stage4.csv,6,9,11,3,180
+stage4_0,data/csv/stage5.csv,6,4,6,0,180
+stage4_1,data/csv/stage5.csv,6,4,1,0,180
+stage4_2,data/csv/stage5.csv,6,4,11,0,180
+stage4_3,data/csv/stage5.csv,6,4,6,9,0
+stage4_4,data/csv/stage5.csv,6,4,1,9,45
+stage4_5,data/csv/stage5.csv,6,4,11,9,315
